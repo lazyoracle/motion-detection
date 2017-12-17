@@ -11,3 +11,5 @@ Application - Can be used for tracking movement of babies, pets etc. The impleme
 The code is mostly self-explanatory and contains extensive comments wherever necessary.
 
 Non-native dependencies - OpenCV, Pandas
+
+Python version - 3.5 and above
