@@ -12,4 +12,8 @@ The code is mostly self-explanatory and contains extensive comments wherever nec
 
 Non-native dependencies - OpenCV, Pandas
 
-Python version - 3.5 and above
+`pip install opencv-python`
+
+`pip install pandas`
+
+Python version - 3.5 and above (Might work for lower versions of Python 3, not tested)
